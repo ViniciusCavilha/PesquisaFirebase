@@ -1,0 +1,7 @@
+{
+  "name": "PesquisaFirebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
